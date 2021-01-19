@@ -19,19 +19,19 @@
 - [ ] Planning (next meeting --> 10 Nov)
 - [X] Sprint Planning #1 
 - [X] [Product Backlog](https://joaoneves.atlassian.net/jira/software/projects/PROJFINAL/boards/5)
-- [X] [Sources Web](https://github.com/)
-- [X] [Sources Android](https://github.com/)
+- [X] [Sources Web](https://github.com/Projeto-PSI-2021/Web)
+- [X] [Sources Android](https://github.com/Projeto-PSI-2021/Android)
 - [X] Architecture
 - [X] Prototype
-- [ ] Database (Diagram, Structure)
-- [ ] Documentation
-- [ ] Source Control
-  - [ ] Git Mobile
-  - [ ] Git APIs
-  - [ ] App Web
-  - [ ] BD
-- [ ] Unit Tests
-- [ ] Mobile Development (Scaffolding)
+- [X] Database (Diagram, Structure)
+- [X] Documentation
+- [X] Source Control
+  - [X] Git Mobile
+  - [X] Git APIs
+  - [X] App Web
+  - [X] BD
+- [X] Unit Tests
+- [X] Mobile Development (Scaffolding)
 - [ ] UI Style Guide
 ### I Wish
 * Stuff that could be improved
